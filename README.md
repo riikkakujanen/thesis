@@ -3,7 +3,7 @@
 Tervetuloa minun tutkimukseen!
 
 Sisällys:
-* [x] (https://github.com/riikkakujanen/thesis/blob/master/Johdanto.md) Johdanto
+* [x] [Johdanto] (https://github.com/riikkakujanen/thesis/blob/master/Johdanto.md)
 * [ ] Metodi
 * [ ] Tulokset
 * [ ] Yhteenveto
