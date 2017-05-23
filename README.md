@@ -7,3 +7,5 @@ Sisällys:
 * [ ] Metodi
 * [ ] Tulokset
 * [ ] Yhteenveto
+
+Kiitos! :clap:
